@@ -14,6 +14,7 @@ gem 'refinerycms-acts-as-indexed', github: 'refinery/refinerycms-acts-as-indexed
 gem 'protected_attributes'
 gem 'globalize3', github: 'svenfuchs/globalize3', branch: 'rails4'
 gem 'seo_meta', github: 'parndt/seo_meta', branch: 'master'
+gem 'paper_trail', github: 'airblade/paper_trail', branch: 'master'
 
 # Database Configuration
 unless ENV['TRAVIS']
